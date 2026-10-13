@@ -18,7 +18,7 @@ class _Tab1ScreenState extends State<Tab1Screen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('WinHydroLife • Hydro'),
+        title: const Text('Win • Hydro'),
         actions: [
           IconButton(
             icon: const Icon(Icons.bolt, color: AppTheme.primaryColor),
